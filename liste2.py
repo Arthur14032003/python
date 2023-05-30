@@ -6,4 +6,3 @@ for i in range(len(t1)):
     t2[2 * i + 1:2 * i + 1] = [t1[i]]
 
 print(t2)
-print("Salut")
